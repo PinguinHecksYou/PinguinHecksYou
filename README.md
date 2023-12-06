@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...CSS
 - 💞️ I’m looking to collaborate on ...Game development
-- 📫 How to reach me ...Insta - Someone_Homophobic
+- 📫 How to reach me ...
 
 <!---
 PinguinHecksYou/PinguinHecksYou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
